@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-adad-50b9621b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.adad99/)
 
-![Adad GitHub stats](https://github-readme-stats.vercel.app/api?username=GadadoRJ&show_icons=true&theme=dracula)
+![Adad GitHub stats](https://github-readme-stats.vercel.app/api?username=GadadoRJ&show_icons=true&theme=dracula&locale=pt-br)
 
 ### Tecnologias que eu uso no meu dia
 
