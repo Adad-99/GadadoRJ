@@ -14,4 +14,4 @@
     <img alingn="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
 
-#### Cursando ciencia da computação 5º periodo e me apaixondando cada vez mais <br/> por essa area de tecnologia.
+#### Cursando ciencia da computação e me apaixondando cada vez mais <br/> por essa area de tecnologia.
